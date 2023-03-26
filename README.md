@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="link do seu leetcode"><img width="32px" alt="LeetCode" title="LeetCode Danilo Forti" src="https://user-images.githubusercontent.com/107387110/227745045-25091a66-beb0-408b-86da-6da4b62c9159.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="link do seu linkedin"><img width="32px" alt="LeetCode" title="LeetCode Danilo Forti" src="https://user-images.githubusercontent.com/87836249/227796889-c3377704-82c7-47f1-bcb9-6f9fcc9b6e30.svg"/></a>
+  <a href="link do seu linkedin"><img width="32px" alt="LeetCode" title="LeetCode Danilo Forti" src="https://user-images.githubusercontent.com/87836249/227797054-ce083aa4-9fb5-4c91-9067-2950404395ff.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
