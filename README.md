@@ -8,7 +8,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="link do seu discord" alt="Discord" title="Contact me from Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="link do seu dev.to"><img width="32px" alt="Dev.to" title="davidpereirads Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="link do seu dev.to"><img width="32px" alt="Dev.to" title="Danilo Forti Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="link do seu leetcode"><img width="32px" alt="LeetCode" title="LeetCode Danilo Forti" src="https://user-images.githubusercontent.com/107387110/227745045-25091a66-beb0-408b-86da-6da4b62c9159.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
